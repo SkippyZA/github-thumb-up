@@ -1,0 +1,9 @@
+const config = {
+  PORT: 3000,
+  GITHUB_ID: '',
+  GITHUB_SECRET: '',
+  ACCESS_TOKEN: '',
+  GITHUB_BASIC_AUTH: '<username>:<password>'
+};
+
+module.exports = config;
