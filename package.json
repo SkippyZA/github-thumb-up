@@ -1,9 +1,9 @@
 {
-    "name": "github-thumb-status-check",
+    "name": "github-thumb-up",
     "author": "Steven Inskip <inskips@gmail.com>",
     "license": "MIT",
     "version": "0.0.1",
-    "description": "",
+    "description": "Github status check to count thumbs up on a merge request",
 
     "main": "src/app.js",
     "scripts": {
